@@ -1,6 +1,11 @@
 @charset "utf-8";
 /* CSS Document */
 
+nav a, button {
+  min-width: 48px;
+  min-height: 48px;
+}
+
 img, embed, object, video {
   max-width: 100%;
 }
