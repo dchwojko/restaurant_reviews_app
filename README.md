@@ -39,3 +39,4 @@ This repository uses [leafletjs](https://leafletjs.com/) with [Mapbox](https://w
 - Added role to nav
 - Added role="application" to maps
 - Changed restaurant-name element to h2
+- Changed attribute for restaurant image from name to alt
