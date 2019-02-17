@@ -3,14 +3,16 @@
 ## Responsive Design
 
 - [ ] Is the site UI comptabile with a range of sizes?
-- [ ] Are images responsive?
+    - [ X ] Main Page
+    - [ ] Detail Page
+- [ X ] Are images responsive?
 - [ ] Are application elements visible and usable in all viewports?
 
 ## Accessibility
 
-- [ ] Are images accessible?
-- [ ] Is focus used appropiately to allow easy navigation of the site?
-- [ ] Are site element defined semantically?
+- [ X ] Are images accessible?
+- [ X ] Is focus used appropiately to allow easy navigation of the site?
+- [ X ] Are site element defined semantically?
 
 ## Offline Availability
 
