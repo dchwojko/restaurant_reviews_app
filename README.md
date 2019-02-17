@@ -29,3 +29,13 @@ Starter code for this project provided by Udacity at: https://github.com/udacity
 ## Leaflet.js and Mapbox:
 
 This repository uses [leafletjs](https://leafletjs.com/) with [Mapbox](https://www.mapbox.com/). You need to replace `<your MAPBOX API KEY HERE>` with a token from [Mapbox](https://www.mapbox.com/). Mapbox is free to use, and does not require any payment information.
+
+## CHANGELOG
+
+### 2019-02-17
+
+- Added lang attribute to html files
+- Moved breadcrumb to nav section
+- Added role to nav
+- Added role="application" to maps
+- Changed restaurant-name element to h2
