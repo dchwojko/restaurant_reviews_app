@@ -41,3 +41,4 @@ This repository uses [leafletjs](https://leafletjs.com/) with [Mapbox](https://w
 - Changed restaurant-name element to h2
 - Changed attribute for restaurant image from name to alt
 - Changed heading from h2 to h3 for Reviews section
+- Fixed issue where Restaurant Name heading was hidden by nav when viewport width was too small
