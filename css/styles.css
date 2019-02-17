@@ -60,7 +60,9 @@ article, aside, canvas, details, figcaption, figure, footer, header, hgroup, men
 /* ====================== Navigation ====================== */
 nav {
   display: flex;
+  flex-wrap: wrap;
   width: 100%;
+  min-width: 300px;
   height: 60px;
   background-color: #252831;
   text-align:center;
