@@ -148,7 +148,6 @@ resetRestaurants = (restaurants) => {
  */
 fillRestaurantsHTML = (restaurants = self.restaurants) => {
   const div = document.getElementById('restaurants-list');
-  console.log(div);
   restaurants.forEach(restaurant => {
     div.append(createRestaurantHTML(restaurant));
   });
@@ -159,7 +158,6 @@ fillRestaurantsHTML = (restaurants = self.restaurants) => {
  * Create restaurant HTML.
  */
 createRestaurantHTML = (restaurant) => {
-  console.log('createRestaurant');
   const div = document.createElement('div');
 
   const image = document.createElement('img');
