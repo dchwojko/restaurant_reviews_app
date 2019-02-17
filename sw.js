@@ -1,8 +1,8 @@
 var CACHE_NAME = 'my-site-cache-v1';
 var urlsToCache = [
   '/',
-  './css/style.css',
-  './data/restaurant.json',
+  './css/styles.css',
+  './data/restaurants.json',
   './img/1.jpg',
   './img/2.jpg',
   './img/3.jpg',
